@@ -1,0 +1,16 @@
+body{
+    background: rgb(246,116,173);
+    background: radial-gradient(circle, rgba(246,116,173,1) 0%, rgba(233,108,24,1) 100%);
+}
+
+
+/*Estilos noticias*/
+.cards{
+    width: 22rem; 
+    margin-top: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.card-body{
+    color: rgb(93, 47, 136);
+}
